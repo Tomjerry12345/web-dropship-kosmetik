@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "web-dropship-kosmetik-re-2a8b6",
+  "private_key_id": "585032d51be39bcde12a8350425aea44194bb08c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0kePTPrnlk7U6\nTgRNPwb17OB4w6kHuWBzQtSQoEggHnVReiPHnFMk2rXMJOVCdDzraNmsL95Nug2y\n9HtCcFlW4EspTvwJyHTkclz/6bnF1+/0ojW4LB5PLUtxK59p71otrMuYN8sI4MLy\nL2lo+DlhA/ovnXT4ll7yeo1g5SbDepWbOVDEBL3p1mqtHevkdU3tqdk8M9d8Y7XK\nUc7Vd/kkE27oMkm595tKTRrjZjMox8hY/TyZnakz0VkNOuKOJ8bxrEl9e8xNhAVv\nlOPRYuDGcmK1qtd3Wy4JkiMr2jlCDvX241NH1yzcUYg3b5AByi04F7PniMFM2ka3\nxurnG10vAgMBAAECggEABSGyRlIdiVs5xsbp02IrqfiJ5pS07I3FonDvRo7vjc4f\nyml8s9MK/9yhVwRjaZCRHKWVrhGMMUxM0F2nVRuJRnFIYYunmQWT4NwpLXKwf2Fk\nJeEoQqwqTli8sKIrPSD6wJqNDK3lPMLad3SGe9+2Db5FsW25ocjwONbnxq2sfNim\nIhKM9GIa8g0L9x9TdExSrqR9PuuFXbmn0twIXl/4okcCSUQAjiZpJ7bNRQ7/vgSl\ny1L8fBCJwR7jDXapuYpgYw9tQjVDJyCGQxqi1WDLWKrgp9qO6DXYaC+Bo85Jknn0\ng/LMES0tuvx1kP5vBJMyoVh6/RXRusVIsy7db8H4hQKBgQD7XftRuwFVw3XRBsSw\nRnAQWp1Rzcv8aA2tDhAXuQbVt1zUIDc+krslfushgljo5XRNgX1H2yJrF7JI5Pwb\nMFjVASXcY6QUckQs7EPl2EX4OohE+qnxcj4IVLAje0cb339MZjg5x0US3sZiEiG9\nVVW99nDLweTMW71+0fsTSQN2EwKBgQC35d4fEfB2Wr8pz65NvloMtz5NGKtN4oHx\nTFLdeOYbWYT5/v1WCtuEJAstSRlGjKut+hk9GrT/ET5PITSmfO1DP+2JzzRg3bL5\nnuOXOj8aPWZlGpICb2V/mCrwmJmF4RRwmwC6hzQHr9vBifxh5R+H/c4r5pPU+PH4\nJaH47qbP9QKBgQCJbQpX1ruWHfStwNuL3Basej4EWVUqu+CuOkAGGDxqX4M63hoV\n9bane0ol2dOuELSTIzZRMLcSgbQRMk+6taX7XlNKuJceLpKjVNCSOrmWSrnxrHF4\n9ZKAj3x1CZMI5Bn+tOwMequC85TWTT9w+dSUtMVaQLlMGOPzD+4KzyI7TQKBgQCq\nxXjGi4cssUqSDj0EDv9ajZP6Ti1OD0iyBjlxV0MAJNpauVMSYtTE2h/S9u3U2O7Y\nicaEOtfXgXDGVMSq0poV+Dii39r5FQeNzOH2Xm2Y9Wmv+8OZJU8w9OLzOBJhA8pS\nY26CyOklNkaxbG0Fj5r/U07w75daj69Ly86k9yHLPQKBgEbSYnFBtUSsHzA6Zllp\nIbRRZCRhCHnPK12osFAEho5ZHcs8xerj3qszwMKJHdgqayF7x0C7/z8iuLmz2jVG\n9TYkVK7ewmz2Uu4Ge9s36FS2AiLsZ4/6Dus1zbNobKj5WNpivKGSF5rgF+5MwsAN\nzng71K/x8hUOqFAabQlaPe9b\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-69b4q@web-dropship-kosmetik-re-2a8b6.iam.gserviceaccount.com",
+  "client_id": "116680176052193211902",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-69b4q%40web-dropship-kosmetik-re-2a8b6.iam.gserviceaccount.com"
+}
